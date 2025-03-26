@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
 
-    <h1>HelloWorld</h1>
+    <h1>HelloWorld Python</h1>
  
     
   </div>
