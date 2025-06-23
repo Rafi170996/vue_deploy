@@ -5,6 +5,6 @@
     "outputDirectory": "dist"
   },
   "deploy": {
-    "startCommand": "npm run serve"
+    "startCommand": "npm run start"
   }
 }
